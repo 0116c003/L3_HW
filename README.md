@@ -1,9 +1,14 @@
 # AI 創新微課程 Taiwan Weather Forecast 作業
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-線上氣象網站點此開啟-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://0116c003.github.io/L3_HW/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-0116c003/L3__HW-181717?style=for-the-badge&logo=github)](https://github.com/0116c003/L3_HW)
+
 - **學生姓名**：林家葦
-- **作業檔名**：`L3_HW.py`
+- **作業檔名**：`L3_HW.py` / `index.html`
+- **線上網址 (GitHub Pages)**：👉 **[https://0116c003.github.io/L3_HW/](https://0116c003.github.io/L3_HW/)**
 - **資料庫檔案**：`data.db` (SQLite)
 - **氣象資料集**：中央氣象署 (CWA) Open Data API（使用者指定代碼：`O-A003-003`，對應官方一週預報資料集：`F-C0032-003`）
+
 
 ---
 
